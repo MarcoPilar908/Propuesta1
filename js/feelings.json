@@ -1,9 +1,0 @@
-{"persona":[
-  { "estado":"Triste", "descripcion":"Te sientes melancólico y propenso a sentir nostalgia"},
-  { "estado":"Audaz", "descripcion":"Emprendez acciones poco comunes sin temer las dificultades o el riesgo que implican"},
-  { "estado":"Alegre", "descripcion":"Tienes sensación de satisfacción o felicidad"},
-  { "estado":"Dormilón", "descripcion":"Cuesta mucho trabajo mantenerse despierto"},
-  { "estado":"Enojado", "descripcion":"Enfado, causado por una falta de obediencia, de obligación o de respeto"},
-  { "estado":"Perspicaz", "descripcion":"Percatarse de cosas que pasan inadvertidas para los demás"},
-  { "estado":"Nervioso", "descripcion":"Te sientes incómodo bajo cierta situación"}
-]}
